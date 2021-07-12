@@ -46,4 +46,8 @@ Skills: Machine Learning | Data Science | Python | Web Scraping | [OpenCV](https
 <h1></h1>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssr-1998&show_icons=true&count_private=true)  
+![Shubham Singh Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssr-1998&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=vision-friendly-dark)
+<!-- highcontrast -->
+
+<!-- For Themes -->
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
