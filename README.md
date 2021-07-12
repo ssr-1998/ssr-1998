@@ -1,4 +1,4 @@
-(https://thumbs.dreamstime.com/b/data-science-analytics-analysis-robotic-arm-pressing-button-screen-200760934.jpg)
+![](https://thumbs.dreamstime.com/b/data-science-analytics-analysis-robotic-arm-pressing-button-screen-200760934.jpg)
 # I'am Shubham Singh Rana
 
 Data Science Intern at iNeuron.ai in Developing Recipe Recommendation System.
