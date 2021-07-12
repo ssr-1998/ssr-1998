@@ -1,4 +1,4 @@
-<img align="right" src="https://media2.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e47moacnihxnkdk6n5c4u4c5re9p5gehrjne0e6kvsn&rid=giphy.gif&ct=g">
+<img align="right" width="350px" src="https://media2.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e47moacnihxnkdk6n5c4u4c5re9p5gehrjne0e6kvsn&rid=giphy.gif&ct=g">
 <!-- ![](https://media2.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e47moacnihxnkdk6n5c4u4c5re9p5gehrjne0e6kvsn&rid=giphy.gif&ct=g) -->
 <h2>Hello Everyone...</h2>
 <h1>I'am Shubham Singh Rana</h1>
