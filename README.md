@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Singh Rana (@ssr-1998)
-- 👀 I’m interested in Machine Learning, OpenCV, Data Analysis, Data Scrapping, PowerBI, Tableau & many other units of Data Science.
-- 🌱 I’m currently learning more & more about Machine Learning Algorithms, Deep Learning & Deploying Models on Cloud.
+- 👀 I’m interested in Machine Learning, OpenCV, Data Analysis, Web Scrapping, PowerBI, Tableau & many other units of Data Science.
+- 🌱 I’m currently learning more & more about Machine Learning Algorithms, Deep Learning & MLOPs
 - 📫 Can contact me on Github or on Skype - https://join.skype.com/invite/xlFLd4fGjK2l
 
 <!---
