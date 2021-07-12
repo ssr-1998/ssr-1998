@@ -1,7 +1,7 @@
 ![](https://thumbs.dreamstime.com/b/data-science-analytics-analysis-robotic-arm-pressing-button-screen-200760934.jpg)
 # I'am Shubham Singh Rana
 
-Data Science Intern at iNeuron.ai in Developing Recipe Recommendation System.
+Data Science Intern at [iNeuron.ai](https://ineuron.ai/home) in Developing Recipe Recommendation System.
 
 Self motivated to learn new things in Data Science & work in Artificial Intelligence irrespective of having a Commerce Background.
 
