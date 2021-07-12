@@ -1,6 +1,5 @@
-### Hi there 👋, I'am Shubham Singh Rana
-#### Data Science & Machine Learning
-![Data Science & Machine Learning](https://thumbs.dreamstime.com/b/data-science-analytics-analysis-robotic-arm-pressing-button-screen-200760934.jpg)
+(https://thumbs.dreamstime.com/b/data-science-analytics-analysis-robotic-arm-pressing-button-screen-200760934.jpg)
+# I'am Shubham Singh Rana
 
 Data Science Intern at iNeuron.ai in Developing Recipe Recommendation System.
 
@@ -11,6 +10,8 @@ Good Knowledge in Web Scraping, Python Programming, Machine Learning & OpenCV.
 Actively seeking opportunities in the field of Data Science.
 
 Developing Skills in Artificial Intelligence & MLOPs.
+
+### Skills
 
 Skills: Machine Learning | Data Science | Python | Web Scraping | OpenCV | MLOPs | PowerBI | Tableau
 
