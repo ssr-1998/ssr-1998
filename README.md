@@ -33,7 +33,7 @@ Good Knowledge in Web Scraping, Python Programming, Machine Learning, various An
 
 ### Connect with Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ssr-1998)  [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/shubham-singh-rana-225744138/)  [<img src='https://image.flaticon.com/icons/png/512/187/187190.png' alt='skype' height='40'>](https://join.skype.com/invite/xlFLd4fGjK2l)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ssr-1998)  [<img src='https://drive.google.com/file/d/1preHzrzBA4vYztFhIcnPrMbdCJ2lnmV5/view?usp=sharing' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/shubham-singh-rana-225744138/)  [<img src='https://drive.google.com/file/d/1nUbPhv0gl6Fo8DTJm4fe4-o_MP8aHWaZ/view?usp=sharing' alt='skype' height='40'>](https://join.skype.com/invite/xlFLd4fGjK2l)  
 
 ### Languages and Tools:
 
