@@ -3,13 +3,11 @@
 <h2>Hello Everyone...</h2>
 <h1>I'am Shubham Singh Rana</h1>
 
-Data Science Intern at [iNeuron.ai](https://ineuron.ai/home) in Developing [Food Recommendation System](https://github.com/ssr-1998/iNeuron_Food_Recommendation_Project_All_Files).
+Data Scientist at [Blackcoffer](https://blackcoffer.com/).
 
 Self motivated to learn new things in Data Science & work in Artificial Intelligence irrespective of having a Commerce Background.
 
-Good Knowledge in Web Scraping, Python Programming, Machine Learning & OpenCV.
-
-Actively seeking opportunities in the field of Data Science.
+Good Knowledge in Web Scraping, Python Programming, Machine Learning, various Analytical Tools & OpenCV.
 
 ### Skills
 
@@ -21,13 +19,17 @@ Actively seeking opportunities in the field of Data Science.
 - [MLOPs](https://github.com/ssr-1998/Wine_Quality_MLOPs)
 - PowerBI
 - Tableau
+- Neo4J
+- Kibana Dashboard
+- Indicative
+- Google Data Studio
 
 <!-- Machine Learning | Data Science | Python | Web Scraping | [OpenCV](https://github.com/ssr-1998/OpenCV) | [MLOPs](https://github.com/ssr-1998/Wine_Quality_MLOPs) | PowerBI | Tableau -->
 
-### Additional Informations
+<!-- ### Additional Informations
 
 - 🔭 I’m currently working on [Food Recommendation System](https://github.com/ssr-1998/iNeuron_Food_Recommendation_Project_All_Files)
-- 🌱 I’m currently learning [MLOPs](https://github.com/ssr-1998/Wine_Quality_MLOPs) & Artificial Intelligence
+- 🌱 I’m currently learning [MLOPs](https://github.com/ssr-1998/Wine_Quality_MLOPs) & Artificial Intelligence -->
 
 ### Connect with Me
 
@@ -50,6 +52,8 @@ Actively seeking opportunities in the field of Data Science.
 <img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
 
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+[My Resume](https://drive.google.com/file/d/1dDkkG0Sx12uOl6Slmtu9uEGCnMC5GXlT/view?usp=sharing)
 
 <br>
 <h1></h1>
