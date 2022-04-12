@@ -53,6 +53,8 @@ Good Knowledge in Web Scraping, Python Programming, Machine Learning, various An
 
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
+<br><br>
+
 [My Resume](https://drive.google.com/file/d/1dDkkG0Sx12uOl6Slmtu9uEGCnMC5GXlT/view?usp=sharing)
 
 <br>
