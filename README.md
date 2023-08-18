@@ -3,11 +3,15 @@
 <h2>Hello Everyone...</h2>
 <h1>I'am Shubham Singh Rana</h1>
 
-Data Scientist at [Blackcoffer](https://blackcoffer.com/).
+Former Data Scientist at [Blackcoffer](https://blackcoffer.com/).
 
-Self motivated to learn new things in Data Science & work in Artificial Intelligence irrespective of having a Commerce Background.
+Self-motivated to learn about new emerging topics in Data Science & work in Artificial Intelligence irrespective of having a Commerce Background.
 
-Good Knowledge in Web Scraping, Python Programming, Machine Learning, various Analytical Tools & OpenCV.
+***Pursuing Courses:***
+- Executive PGP from IIIT Bangalore
+- MSc in Data Science from Liverpool John Moores University (Specialization in Natural Language Processing)
+
+Good Knowledge of Web Scraping, Python Programming, Machine Learning, various Analytical Tools & OpenCV.
 
 ### Skills
 
@@ -23,6 +27,7 @@ Good Knowledge in Web Scraping, Python Programming, Machine Learning, various An
 - Kibana Dashboard
 - Indicative
 - Google Data Studio
+- BangDB
 
 <!-- Machine Learning | Data Science | Python | Web Scraping | [OpenCV](https://github.com/ssr-1998/OpenCV) | [MLOPs](https://github.com/ssr-1998/Wine_Quality_MLOPs) | PowerBI | Tableau -->
 
@@ -33,7 +38,7 @@ Good Knowledge in Web Scraping, Python Programming, Machine Learning, various An
 
 ### Connect with Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ssr-1998)  [<img src='https://drive.google.com/file/d/1preHzrzBA4vYztFhIcnPrMbdCJ2lnmV5/view?usp=sharing' alt='linkedin' height='40'>](https://www.linkedin.com/in/shubham-singh-rana-225744138/)  [<img src='https://drive.google.com/file/d/1nUbPhv0gl6Fo8DTJm4fe4-o_MP8aHWaZ/view?usp=sharing' alt='skype' height='40'>](https://join.skype.com/invite/xlFLd4fGjK2l)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ssr-1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shubham-singh-rana-225744138/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](https://join.skype.com/invite/xlFLd4fGjK2l)
 
 ### Languages and Tools:
 
@@ -61,7 +66,7 @@ Good Knowledge in Web Scraping, Python Programming, Machine Learning, various An
 <h1></h1>
 <br>
 
-![Shubham Singh Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssr-1998&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=vision-friendly-dark)
+<!-- ![Shubham Singh Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssr-1998&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=vision-friendly-dark) -->
 <!-- highcontrast -->
 
 <!-- For Themes -->
