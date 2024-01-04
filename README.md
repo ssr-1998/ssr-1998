@@ -36,10 +36,6 @@ Good Knowledge of Web Scraping, Python Programming, Machine Learning, various An
 - 🔭 I’m currently working on [Food Recommendation System](https://github.com/ssr-1998/iNeuron_Food_Recommendation_Project_All_Files)
 - 🌱 I’m currently learning [MLOPs](https://github.com/ssr-1998/Wine_Quality_MLOPs) & Artificial Intelligence -->
 
-### Connect with Me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ssr-1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shubham-singh-rana-225744138/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](https://join.skype.com/invite/xlFLd4fGjK2l)
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" title="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
